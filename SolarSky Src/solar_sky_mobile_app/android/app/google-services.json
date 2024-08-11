@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "omitted",
+    "project_id": "solar-sky-app",
+    "storage_bucket": "solar-sky-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791617202926:android:a30b9ef314b459161a61ff",
+        "android_client_info": {
+          "package_name": "com.example.solar_sky_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "omitted"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "omitted",
+        "android_client_info": {
+          "package_name": "com.example.solar_sky_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "omitted"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
