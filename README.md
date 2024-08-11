@@ -1,3 +1,4 @@
+![Technology-animation-gif](https://github.com/aseelbahakeem/aseelbahakeem/blob/main/headergif.gif)
 # SolarSky: PV Panel Fault Detection using Deep Learning and UAVs
 
 All work for my senior project completing courses COCS 498 and COCS 499 during the first and last semesters of 2024, with the guidance of my advisor and colleagues at King AbdulAziz University for my Computer Science undergraduate degree.
